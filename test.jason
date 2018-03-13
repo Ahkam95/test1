@@ -1,12 +1,12 @@
 [
 {
   "name": "Ahkam",
-  "Age" : 22,
+  "Age" : "a",
   "sex" : "male"
   },
   {
   "name": "Ashfa",
-  "Age" : 20,
+  "Age" : "b",
   "sex" : "female"
   }
 ]
